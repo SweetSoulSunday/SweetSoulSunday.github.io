@@ -1,0 +1,55 @@
+# Site settings
+title: Dannii Newman
+welcome: welcome
+email: dannii.newman@gmail.com
+url: http://danniinewman.uk
+description: "Creator - Designer - Maker"
+keywords: "designer, leamington, graphic, design, portfolio, visual, warwickshire, stratford"
+skills: "Creator - Designer - Maker"
+meta_author: Newman Dannii
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+# bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+# disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 07BEB8
+  primary-rgb: "7,190,184" 
+  secondary: 273E47
+  secondary-dark: FED766
+
+# Footer settings
+footer:
+  copyright: Dannii Newman
+  location: My desk
+  social: Feeling nosy?
+  credits: Wisdom
+
+credits: "'Imagination is more important than knowledge' - Albert Einstein"
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/danielle-n
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Royal Leamington Spa
+  - line: Warwickshire
+
+# Build settings
+markdown: kramdown
+permalink: pretty
